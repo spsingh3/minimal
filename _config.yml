@@ -1,6 +1,18 @@
-title: Minimal theme
+title: <p align="center"> Sonipriya Singh</p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sonipriya-singh-317a1a116/">LinkedIn</a> |
+  <a href="https://github.com/spsingh3">GitHub</a>
+  
+  <br>   
+  I'm currently working in EDA industry as a software developer.
+  Working in EDA domain for 7 years
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
